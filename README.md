@@ -36,13 +36,13 @@ $npm install
 
 In the project directory, you can run:
 
-### `npm start:dev`
+### `npm run dev`
 
 ### `npm run build`
 
 ## CHANGELOG HISTORY
 
-[CHANGELOG](https://github.com/REPOSITORY_NAME/PROJECT_NAME/blob/develop/CHANGELOG.md)
+[CHANGELOG](https://github.com/react-library-showcase/blob/master/CHANGELOG.md)
 
 ### link to changelog
 
