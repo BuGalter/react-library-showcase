@@ -12,6 +12,7 @@
   "author": "BuGalter <wardoc78@gmail.com>",
   "license": "ISC",
   "dependencies": {
+    "@BuGalter/react-components-lib": "npm:@bugalter/react-components-lib@^0.0.7",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
